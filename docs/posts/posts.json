@@ -1,5 +1,63 @@
 [
   {
+    "path": "posts/2021-06-16-4/",
+    "title": "4",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Meredith Rolfe",
+        "url": "http://umass.edu/sbs/dacss"
+      }
+    ],
+    "date": "2021-06-16",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T22:32:25+05:30",
+    "input_file": "4.knit.md"
+  },
+  {
+    "path": "posts/2021-06-16-5/",
+    "title": "5",
+    "description": "A short description of the post.",
+    "author": [],
+    "date": "2021-06-16",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T22:32:28+05:30",
+    "input_file": "5.knit.md"
+  },
+  {
+    "path": "posts/2021-06-16-iris/",
+    "title": "iris",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Meredith Rolfe",
+        "url": "http://umass.edu/sbs/dacss"
+      }
+    ],
+    "date": "2021-06-16",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T22:32:34+05:30",
+    "input_file": "iris.knit.md"
+  },
+  {
+    "path": "posts/2021-06-16-voila/",
+    "title": "voila",
+    "description": "A short description of the post.",
+    "author": [],
+    "date": "2021-06-16",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T22:32:38+05:30",
+    "input_file": "voila.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to DACSS 601",
     "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nreading what we have to say!",
@@ -15,7 +73,7 @@
     ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-04-12T23:39:36-04:00",
-    "input_file": {}
+    "last_modified": "2021-06-16T22:32:40+05:30",
+    "input_file": "welcome.knit.md"
   }
 ]

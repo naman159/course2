@@ -5,35 +5,42 @@
       "title": "About the Course",
       "author": [],
       "contents": "\nThis is some information about DACSS and the course. Can be prefilled in with something interesting.\nCourse Instructor:\nInstructor Name\n\n\n\n",
-      "last_modified": "2021-04-16T15:03:18-04:00"
+      "last_modified": "2021-06-16T15:52:51+05:30"
     },
     {
       "path": "index.html",
       "title": "Student Submissions",
       "author": [],
-      "contents": "\n\n\n\n\nDACSS 601: Foundations of Data Science\n\n\nSpring 2021\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-04-16T15:03:19-04:00"
+      "contents": "\n\n\n\n\ncourse2\n\n\nfall2022\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-06-16T15:52:54+05:30"
     },
     {
       "path": "instructor.html",
-      "title": "Instructor Name",
+      "title": "malala",
       "author": [],
-      "contents": "\n\n          \n          \n          \n          \n          Data Analytics and Computational Social Science\n          \n          \n          About\n          Syllabus\n          Students\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Instructor Name\n          \n          \n            \n              I am some sort of person, blah blah biography.\n            \n            \n              I am some sort of person, blah blah biography.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          \n          \n            \n          \n          \n          \n            \n              \n              \n              \n              \n              \n            \n          \n          \n          \n\n    \n  ",
-      "last_modified": "2021-04-16T15:03:19-04:00"
+      "contents": "\n\n          \n          \n          \n          \n          Data Analytics and Computational Social Science\n          \n          \n          About\n          Syllabus\n          Students\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            malala\n          \n          \n            \n              I am some sort of person, blah blah biography.\n            \n            \n              I am some sort of person, blah blah biography.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          \n          \n            \n          \n          \n          \n            \n              \n              \n              \n              \n              \n            \n          \n          \n          \n\n    \n  ",
+      "last_modified": "2021-06-16T15:52:54+05:30"
+    },
+    {
+      "path": "naman.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\n\n          \n          \n          \n          \n          Data Analytics and Computational Social Science\n          \n          \n          About\n          Syllabus\n          Students\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Tobi Burns\n          \n          \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          \n          \n            \n          \n          \n          \n            \n              \n              \n              \n              \n              \n            \n          \n          \n          \n\n    \n  ",
+      "last_modified": "2021-06-16T15:52:55+05:30"
     },
     {
       "path": "students.html",
       "title": "Students",
       "author": [],
-      "contents": "\n\n\n\nMax\n\n\n\n\n",
-      "last_modified": "2021-04-16T15:03:20-04:00"
+      "contents": "\n\n\n\nDan\nMan\nMax\nVan\n\n\n\n\n",
+      "last_modified": "2021-06-16T15:53:01+05:30"
     },
     {
       "path": "syllabus.html",
       "title": "Course Syllabus",
       "author": [],
       "contents": "\nEdit this page with the course syllabus and/or other information. Feel free to delete the example file below as well.\n(Note that when knitted, it might display as ‘Couldn’t load plugin’. Simply click ‘Open in Browser’ at the top left side of the screen to view your page looks like.)\nSyllabus:\n\n\n\n\n\n",
-      "last_modified": "2021-04-16T19:54:16-04:00"
+      "last_modified": "2021-06-16T15:52:57+05:30"
     }
   ],
   "collections": ["posts/posts.json"]
