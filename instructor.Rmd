@@ -9,8 +9,8 @@ links:
 - label: Email
   url: mailto:example@email.com
 output: postcards::jolla
-title: malala
-image: https://drive.google.com/uc?export=view&id=NA
+image: https://blog.udemy.com/wp-content/uploads/2014/05/bigstock-Cute-Furry-Monster-39562309.jpg
+title: Neo Leo
 ---
  
 I am some sort of person, blah blah biography.

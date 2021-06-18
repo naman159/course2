@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-06-16T22:32:25+05:30",
-    "input_file": "4.knit.md"
+    "last_modified": "2021-06-18T23:41:21+05:30",
+    "input_file": {}
   },
   {
     "path": "posts/2021-06-16-5/",
@@ -25,8 +25,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-06-16T22:32:28+05:30",
-    "input_file": "5.knit.md"
+    "last_modified": "2021-06-18T23:41:22+05:30",
+    "input_file": {}
   },
   {
     "path": "posts/2021-06-16-iris/",
@@ -42,8 +42,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-06-16T22:32:34+05:30",
-    "input_file": "iris.knit.md"
+    "last_modified": "2021-06-18T23:41:23+05:30",
+    "input_file": {}
   },
   {
     "path": "posts/2021-06-16-voila/",
@@ -54,8 +54,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-06-16T22:32:38+05:30",
-    "input_file": "voila.knit.md"
+    "last_modified": "2021-06-18T23:41:24+05:30",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
@@ -73,7 +73,7 @@
     ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-06-16T22:32:40+05:30",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2021-06-18T23:41:25+05:30",
+    "input_file": {}
   }
 ]

@@ -21,7 +21,7 @@ header_title = paste('<section class="index-title">',
                      '<h2>{{env[2]}}</h2>', # SEMESTER Header
                      '</section>', sep = '')
 
-# Dyanmmically creates header title when knitted
+# Dynamically creates header title when knitted
 out <- NULL # Set to NULL at first to allow paste() below to work
 out <- c(out, knitr::knit_expand(text = header_title))
 
